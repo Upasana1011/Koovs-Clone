@@ -52,7 +52,7 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 ---
 
-### Snapshots 📸
+<!-- ### Snapshots 📸
 
 #### Home Page
 ![homepage]()
@@ -71,7 +71,7 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 #### Address Page
 ![AddressPage]()
-
+ -->
 
 
 
