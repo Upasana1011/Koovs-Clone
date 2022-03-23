@@ -54,22 +54,22 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 ### Snapshots 📸
 
-# Home Page
+#### Home Page
 ![homepage]()
 
-# Product Page
+#### Product Page
 ![productpage]()
 
-# Blog Page
+#### Blog Page
 ![BlogPage]()
 
-# Signup Page
+#### Signup Page
 ![signup]()
 
-# Cart Page
+#### Cart Page
 ![cartPage]()
 
-# Address Page
+#### Address Page
 ![AddressPage]()
 
 
