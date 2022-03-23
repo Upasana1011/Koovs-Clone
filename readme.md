@@ -52,5 +52,27 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 ---
 
+### Snapshots 📸
+
+# Home Page
+![homepage]()
+
+# Product Page
+![productpage]()
+
+# Blog Page
+![BlogPage]()
+
+# Signup Page
+![signup]()
+
+# Cart Page
+![cartPage]()
+
+# Address Page
+![AddressPage]()
+
+
+
 
 
